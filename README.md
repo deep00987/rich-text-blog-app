@@ -58,12 +58,18 @@ Backend Environment File Format
 Please make sure to replace the placeholders (e.g., JWT_KEY, MONGO_URI) with appropriate values relevant to your setup.
 
 
-![Screenshot 2023-09-26 181038](https://github.com/deep00987/rich-text-blog-app/assets/24670719/5bd61242-bdab-49f2-9c56-1291bd37c8f4)![Screenshot 2023-09-26 180542](https://github.com/deep00987/rich-text-blog-app/assets/24670719/535c934e-c432-4a81-a481-6da58193ef48)
+
+![Screenshot 2023-09-26 180542](https://github.com/deep00987/rich-text-blog-app/assets/24670719/535c934e-c432-4a81-a481-6da58193ef48)
 
 ![Screenshot 2023-09-26 180756](https://github.com/deep00987/rich-text-blog-app/assets/24670719/90b89b3d-1027-4190-ba6b-4e6edcbc7281)
 
+![Screenshot 2023-09-26 181038](https://github.com/deep00987/rich-text-blog-app/assets/24670719/5bd61242-bdab-49f2-9c56-1291bd37c8f4)
 
+![Screenshot 2023-09-26 180951](https://github.com/deep00987/rich-text-blog-app/assets/24670719/09d0db39-1312-4d6a-9a26-3f92c9d464ff)
 
+![Screenshot 2023-09-26 180013](https://github.com/deep00987/rich-text-blog-app/assets/24670719/8cea094e-ba8e-45aa-b6d1-6916f765824a)
+
+![Screenshot 2023-09-26 181038](https://github.com/deep00987/rich-text-blog-app/assets/24670719/f3afe0a8-cd3a-4685-95db-7f06cf9c891e)
 
 
 
