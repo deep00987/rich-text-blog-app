@@ -67,9 +67,7 @@ Please make sure to replace the placeholders (e.g., JWT_KEY, MONGO_URI) with app
 
 ![Screenshot 2023-09-26 180951](https://github.com/deep00987/rich-text-blog-app/assets/24670719/09d0db39-1312-4d6a-9a26-3f92c9d464ff)
 
-![Screenshot 2023-09-26 180013](https://github.com/deep00987/rich-text-blog-app/assets/24670719/8cea094e-ba8e-45aa-b6d1-6916f765824a)
 
-![Screenshot 2023-09-26 181038](https://github.com/deep00987/rich-text-blog-app/assets/24670719/f3afe0a8-cd3a-4685-95db-7f06cf9c891e)
 
 
 
